@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 #   ==================================
-#   | Walnut HS Cyber Security Club  |
-#   |            Team 1              |
+#   | Wilson HS Cyber Security :>    |
+#   |            Team 0              |
 #   |     Linux Hardening Script     |
 #   ==================================
 
